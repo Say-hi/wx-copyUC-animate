@@ -1,0 +1,1 @@
+{"pages":["pages/index/index","pages/canvas/canvas"],"window":{"navigationBarBackgroundColor":"#ffffff","navigationBarTextStyle":"black","navigationBarTitleText":"copy-UC","backgroundColor":"#fff","backgroundTextStyle":"light","enablePullDownRefresh":false},"networkTimeout":{"request":10000,"downloadFile":10000},"debug":true}

@@ -1,0 +1,35 @@
+.title {
+  font-size: 40rpx;
+}
+page {
+  background-color: #eee;
+}
+canvas {
+  border: 2rpx solid #f00;
+}
+.test-out {
+  overflow: hidden;
+  border: 2rpx solid #f00;
+}
+.test {
+  animation: go 3s steps(10) infinite;
+}
+.test-out,
+.test {
+  width: 262rpx;
+  height: 276rpx;
+}
+.test-out image,
+.test image {
+  width: 1000%;
+  height: 276rpx;
+  transform: translateX(90);
+}
+@keyframes go {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-2620rpx);
+  }
+}
